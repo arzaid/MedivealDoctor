@@ -9,9 +9,9 @@ public class Inventory : MonoBehaviour
     public delegate void InventoryChangedEventHandler();
     public event InventoryChangedEventHandler OnInventoryChanged;
     private void NotifyInventoryChanged() { if (OnInventoryChanged != null) OnInventoryChanged(); }
-    public bool AddItem(Ingredient newItem)
+    public bool AddItem(Item newItem)
     {
-        foreach (Ingredient item in items)
+        foreach (Item item in items)
         {
             if (item.name == newItem.name)
             {

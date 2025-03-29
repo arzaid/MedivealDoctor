@@ -844,6 +844,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &362642048
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -887,6 +888,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &403164650
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1257,6 +1259,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &493794670
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1300,6 +1303,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &585035185
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1366,6 +1370,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!1001 &632352533
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1797,6 +1802,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &846236999
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2093,6 +2099,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &893034965
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2136,6 +2143,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &900951753
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2385,6 +2393,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &926368075
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2531,6 +2540,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1003366124
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2574,6 +2584,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1031266240
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2617,6 +2628,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1031773390
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2866,6 +2878,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1097496873
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2909,6 +2922,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1104534267
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -3186,6 +3200,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1230951602
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -3592,6 +3607,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1340368380
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -4432,6 +4448,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!1001 &1555974460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4718,6 +4735,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1739655653
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5059,6 +5077,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &1894208081
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5211,6 +5230,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &2006325808
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5254,6 +5274,7 @@ MonoBehaviour:
   ingredientName: HeartHerb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &2048970535
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5297,6 +5318,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &2060707484
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5337,9 +5359,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1df06d8a2246c1c47918275948c1fd85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ingredientName: HeartHerb
+  ingredientName: Herb
   icon: {fileID: 21300000, guid: b3b3caf4d2fc2e44d91b722e897ddc95, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &2083409236
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5383,6 +5406,7 @@ MonoBehaviour:
   ingredientName: Anserina
   icon: {fileID: 21300000, guid: 97bb8e41c55c26b4ca529b5283fedd5f, type: 3}
   quantity: 1
+  type: 0
 --- !u!136 &2093819241
 CapsuleCollider:
   m_ObjectHideFlags: 0

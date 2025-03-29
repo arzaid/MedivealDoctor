@@ -20,7 +20,7 @@ public class InventoryUI : MonoBehaviour
             Destroy(child.gameObject);
 
         // Create new slots
-        foreach (Ingredient item in inventory.items)
+        foreach (Item item in inventory.items)
         {
             GameObject slot = Instantiate(slotPrefab, slotContainer);
             slot.GetComponentInChildren<Image>().sprite = item.icon;

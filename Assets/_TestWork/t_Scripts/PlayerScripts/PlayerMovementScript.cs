@@ -88,7 +88,7 @@ public class PlayerMovementScript : MonoBehaviour
             CollectibleIngredient collectible = hit.collider.GetComponent<CollectibleIngredient>();
             if (collectible != null)
             {
-                Ingredient newItem = new Ingredient(collectible.ingredientName, collectible.icon, collectible.quantity);
+                Item newItem = new Item(collectible.ingredientName, collectible.icon, collectible.type, collectible.quantity);
                 if (inventory.AddItem(newItem))
                 {
                     Destroy(collectible.gameObject); // Remove from scene

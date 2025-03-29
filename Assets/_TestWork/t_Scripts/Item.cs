@@ -17,7 +17,7 @@ public class Item
         this.quantity = quantity;
     }
 }
-
+[System.Serializable]
 public enum ItemType
 {
     Ingredient,
