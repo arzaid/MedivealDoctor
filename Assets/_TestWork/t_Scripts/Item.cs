@@ -34,6 +34,7 @@ public class IngredientRequirement
         this.quantity = quantity;
     }
 }
+[System.Serializable]
 public class Recipe
 {
     public string potionName;
